@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("libdargon.management-api")]
+[assembly: AssemblyTitle("Dargon.Management.Api")]
 [assembly: AssemblyDescription("Dargon Managed Objects API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("The Dargon Project")]
-[assembly: AssemblyProduct("libdargon.management-api")]
+[assembly: AssemblyProduct("Dargon.Management.Api")]
 [assembly: AssemblyCopyright("Copyright © Michael 'ItzWarty' Yu 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
